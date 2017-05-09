@@ -1,5 +1,5 @@
 # C# Probability Calculator Learning Simulation
-Dummy c# project 
+[warning] this is a dummy c# projet 
 
 
 ## The Story Begins
